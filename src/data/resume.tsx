@@ -240,8 +240,7 @@ export const DATA = {
         },
       ],
       image: "/yeetum.png",
-      video:
-        ""
+      video: ""
     },
     {
       title: "Gogent - Agentic Worker AI",
@@ -269,6 +268,7 @@ export const DATA = {
         },
       ],
       image: "/gogent.png",
+      video: "",
       imagealt: "Gogent - Agentic Worker AI in Go"
     },
     {
@@ -296,6 +296,7 @@ export const DATA = {
         }
       ],
       image: "/dispatchr.png",
+      video: "",
       imagealt: "Dispatchr.sh - Agentic Workflow Platform"
     },
     {
@@ -323,11 +324,13 @@ export const DATA = {
         },
       ],
       image: "/yeshuit.png",
+      video: "",
     },
     {
       title: "Fort Worth DAO Constitution & Whitepaper",
       imagealt: "Fort Worth City DAO Constitution",
       image: "/fwtx-dao.webp",
+      video: "",
       href: "https://constitution.fwtx.city/",
       dates: "2023",
       active: true,
@@ -348,6 +351,7 @@ export const DATA = {
       href: "https://github.com/tobalo/sovereign-capital-data-flow.git",
       dates: "2022",
       active: true,
+      video: "",
       description: "Thesis on National Financial Security risk to USG + American Retirements",
       technologies: ["Information Capital", "Complex Systems", "Markets", "Macroeconomics"],
       links: [
@@ -362,6 +366,7 @@ export const DATA = {
       title: "EdgeAI Intel Tool",
       imagealt: "Edge Data and SIGINT Analysis Tool",
       image: "/synopsis-poc.gif",
+      video: "",
       href: "https://github.com/tobalo/synopsis.git",
       dates: "2023",
       active: true,
@@ -379,6 +384,7 @@ export const DATA = {
       title: "Global Satellite Tracking",
       imagealt: "NATS GEOINT Network Fabric",
       image: "/satellites.webp",
+      video: "",
       href: "https://github.com/Ynosis/nats-geoint",
       dates: "2023",
       active: true,
@@ -396,6 +402,7 @@ export const DATA = {
       title: "Encrypted News Network",
       imagealt: "Immutable News DAG PoC",
       image: "/encrypted-news.jpeg",
+      video: "",
       href: "https://github.com/jedi-ops/immutable-news-dag-poc",
       dates: "2023",
       active: true,
