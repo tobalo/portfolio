@@ -8,7 +8,7 @@ export const DATA = {
   location: "North Texas",
   locationLink: "https://www.google.com/maps/place/dallas-fortworth",
   description:
-    "Solutions Architect, Software Developer, Entrepreneur, Analyst, and Life Long Student",
+    "Systems Architect, Software Developer, Investor, Entrepreneur, Advisor, Analyst, and most importantly a Life Long Student",
   summary:
     "In the middle of 2024, I decided to leave my cushy big tech and corporate job and live in the trenches of startups, small business, and building companys from the ground up. I currently lead and run yeetum.com and actively provide technical advisory for WhitegloveAI, Intrana, and a few other organizations. I also mentor, coach, and teach aspiring computer science, information systems, and math to students ranging from middle school to masters students. I'm hyperfocused on supporting the next generation of engineering for R&D and restoring American industry with my information skills.",
   avatarUrl: "/me.png",
